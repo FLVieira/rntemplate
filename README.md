@@ -29,7 +29,16 @@ para utilizar caminhos absolutos, além das citadas abaixo:
 
 Pré-requisitos:
 
-- Yarn/Npm
+- Yarn/Npm 
+
+Instalando via react-native-cli: 
+Obs: (não irá funcionar com o comando "npx react-native")
+
+````
+react-native init rnapp --template rntemplate-flvieira
+````
+
+Instalando via git: 
 
 ```
 # Vá no seu terminal e digite os seguintes comandos:
