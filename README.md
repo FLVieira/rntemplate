@@ -32,6 +32,7 @@ Pré-requisitos:
 - Yarn/Npm 
 
 Instalando via react-native-cli: 
+
 Obs: (não irá funcionar com o comando "npx react-native")
 
 ````
